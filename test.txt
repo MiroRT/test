@@ -1,3 +1,7 @@
 test file 10/12/25
 
+<<<<<<< HEAD
 branch_main
+=======
+test_branch
+>>>>>>> test_branch
